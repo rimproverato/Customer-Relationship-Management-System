@@ -1,2 +1,9 @@
-# Customer-Relationship-Management-System
+# Customer Relationship Management System
 A Customer relationship management made using Python and the Django framework.
+
+## Screenshot
+
+## Objectives
+
+
+## References
