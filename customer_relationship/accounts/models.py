@@ -20,8 +20,8 @@ class Tag(models.Model):
 
 class Product(models.Model):
 	CATEGORY = (
-			('Indoor', 'Indoor'),
-			('Out Door', 'Out Door'),
+				('Sofware', 'Sofware'),
+				('Hardware', 'Hardware')
 			) 
 
 	name = models.CharField(max_length=200, null=True)
